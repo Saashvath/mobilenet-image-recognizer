@@ -1,0 +1,47 @@
+  .heading
+  {
+    
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  
+  .copy_right_footer{
+
+    position :fixed; 
+    color: whitesmoke;
+    background-color: teal;
+    width: 100%;
+    bottom:0;
+    line-height: 3;
+    font-size:17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+
+  canvas{
+
+    border: 3px solid coral;
+    border-radius: 50px;
+    box-shadow: 4px 4px 4px royalblue;
+      margin-top: 150px;
+  }
